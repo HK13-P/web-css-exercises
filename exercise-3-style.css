@@ -1,0 +1,9 @@
+/* External CSS */
+body {
+    background-color: #f0f0f0;
+}
+
+.intro p {
+    font-size: 16pt;
+    color: #333;
+}
